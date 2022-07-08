@@ -1,4 +1,4 @@
-# datax
+# DataX - SCET, UC-Berkeley
 
 The file data_prototype2.csv is the dataset we manually collected for the number of followers/members for the different platforms available. 
 
